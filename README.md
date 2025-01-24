@@ -26,5 +26,4 @@
 
 <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=amhousa&show_icons=true&theme=dark&locale=en&layout=compact" alt="amhousa" /></p>
 
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=amhousa&theme=dark-minimalist&hide_border=true" alt="GitHub Streak" /></a>
-</div>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=amhousa&theme=dark-minimalist&hide_border=true&type=png" alt="GitHub Streak" /></a></div>
