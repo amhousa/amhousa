@@ -24,8 +24,8 @@
 
 <div style="display: flex; justify-content: space-between; align-items: flex-start; gap: 20px; margin-top: 20px;">
   
-<p style="flex: 1;">![amhousa's Stats](https://github-readme-stats.vercel.app/api?username=amhousa&theme=prussian&show_icons=true&hide_border=false&count_private=true)</p>
+<div style="flex: 1;">![amhousa's Stats](https://github-readme-stats.vercel.app/api?username=amhousa&theme=prussian&show_icons=true&hide_border=false&count_private=true)</div>
 
-<p style="flex: 1;">![amhousa's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amhousa&theme=prussian&show_icons=true&hide_border=false&layout=compact)</p>
+<div style="flex: 1;">![amhousa's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amhousa&theme=prussian&show_icons=true&hide_border=false&layout=compact)</div>
 
 </div>
