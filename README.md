@@ -26,20 +26,14 @@
   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40" />
   </a>
-  <!-- سایر ابزارها اینجا اضافه می‌شوند -->
+  <!-- ادامه ابزارها -->
 </p>
 
-<!-- استایل اصلی -->
-<div style="display: flex; justify-content: center; align-items: flex-start; gap: 20px; margin-top: 20px;">
-
-  <!-- باکس اول -->
-  <div style="border: 2px solid #0e75b6; border-radius: 10px; padding: 15px; width: 50%;">
-    <img src="https://github-readme-stats.vercel.app/api?username=amhousa&theme=prussian&show_icons=true&hide_border=false&count_private=true" alt="amhousa's Stats" style="width: 100%;" />
+<div style="display: flex; justify-content: space-between; gap: 20px; margin-top: 20px;">
+  <div style="flex: 1; border: 2px solid #e0e0e0; padding: 10px; border-radius: 10px; background-color: #f9f9f9;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=amhousa&show_icons=true&theme=prussian&layout=compact" alt="Top Languages" />
   </div>
-
-  <!-- باکس دوم -->
-  <div style="border: 2px solid #0e75b6; border-radius: 10px; padding: 15px; width: 50%;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amhousa&theme=prussian&show_icons=true&hide_border=false&layout=compact" alt="amhousa's Top Languages" style="width: 100%;" />
+  <div style="flex: 1; border: 2px solid #e0e0e0; padding: 10px; border-radius: 10px; background-color: #f9f9f9;">
+    <img src="https://github-readme-stats.vercel.app/api?username=amhousa&theme=prussian&show_icons=true&hide_border=false&count_private=true" alt="GitHub Stats" />
   </div>
-
 </div>
