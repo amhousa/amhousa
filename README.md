@@ -24,7 +24,7 @@
 
 <div style="display: flex; justify-content: space-between; align-items: flex-start; gap: 20px; margin-top: 20px;">
 
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=amhousa&show_icons=true&theme=dark&locale=en&layout=compact" alt="amhousa" /></p>
+![amhousa's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amhousa&theme=prussian&show_icons=true&hide_border=false&layout=compact)
 
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=amhousa" alt="GitHub Streak" /></a>
+![amhousa's Stats](https://github-readme-stats.vercel.app/api?username=amhousa&theme=prussian&show_icons=true&hide_border=false&count_private=true)
 </div>
