@@ -1,4 +1,4 @@
-# 🌟 أمير حسين سلماني - مطور ويب متكامل ومتخصص في الذكاء الاصطناعي
+# 🌟 أميرحسين سلماني - مطور ويب متكامل
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&random=false&width=600&lines=مهندس+متكامل+نخبوي;خبير+الذكاء+الاصطناعي+والتعلم+الآلي;خبير+React+%7C+Next.js+%7C+TypeScript;أكثر+من+5+سنوات+من+الخبرة;تطوير+أكثر+من+15+تطبيقًا+احترافيًا" alt="Typing SVG" />

@@ -57,31 +57,31 @@
 ## ⚡ Мастерство в технологиях
 
 ### 🎨 **Frontend превосходство**
-![React](https://img.shields.io/badge/React-Эксперт_95%-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-Мастер_90%-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-Продвинутый_85%-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-Опытный_80%-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
-![Three.js](https://img.shields.io/badge/Three.js-Специалист_75%-000000?style=for-the-badge&logo=threedotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-Эксперт_95-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-Мастер_90-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-Продвинутый_85-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-Опытный_80-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
+![Three.js](https://img.shields.io/badge/Three.js-Специалист_75-000000?style=for-the-badge&logo=threedotjs&logoColor=white)
 
 ### ⚙️ **Backend мастерство**  
-![Node.js](https://img.shields.io/badge/Node.js-Эксперт_90%-43853D?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-Продвинутый_80%-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-Мастер_85%-404D59?style=for-the-badge&logo=express&logoColor=white)
-![Python](https://img.shields.io/badge/Python-Опытный_75%-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![WebSocket](https://img.shields.io/badge/WebSocket-Эксперт_90%-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-Эксперт_90-43853D?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-Продвинутый_80-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-Мастер_85-404D59?style=for-the-badge&logo=express&logoColor=white)
+![Python](https://img.shields.io/badge/Python-Опытный_75-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![WebSocket](https://img.shields.io/badge/WebSocket-Эксперт_90-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
 
 ### 🤖 **ИИ и наука о данных**
-![TensorFlow](https://img.shields.io/badge/TensorFlow-Специалист_70%-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/МО_инженерия-Продвинутый_80%-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![NLP](https://img.shields.io/badge/NLP-Эксперт_75%-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![Computer Vision](https://img.shields.io/badge/Компьютерное_зрение-Опытный_70%-FF6F00?style=for-the-badge&logo=opencv&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-Специалист_70-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/ML_Engineering-Продвинутый_80-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![NLP](https://img.shields.io/badge/NLP-Эксперт_75-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Computer Vision](https://img.shields.io/badge/Computer_Vision-Опытный_70-FF6F00?style=for-the-badge&logo=opencv&logoColor=white)
 
 ### 🗄️ **Архитектура баз данных и облака**
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Эксперт_85%-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-Продвинутый_80%-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)  
-![Redis](https://img.shields.io/badge/Redis-Опытный_75%-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS_облако-Продвинутый_70%-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-Опытный_75%-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Эксперт_85-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-Продвинутый_80-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)  
+![Redis](https://img.shields.io/badge/Redis-Опытный_75-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS_Cloud-Продвинутый_70-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-Опытный_75-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
 
 ---
 
