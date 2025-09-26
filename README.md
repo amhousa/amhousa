@@ -1,25 +1,119 @@
-<h1 align="center">Hi 👋, I'm Amirhossein Salmani</h1>
-<h3 align="center">A passionate Full Stack developer from 🇳🇱</h3>
+# 🌟 Amirhossein Salmani - Full Stack Developer
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=amhousa&label=Profile%20views&color=0e75b6&style=flat" alt="amhousa" /> </p>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&random=false&width=600&lines=Elite+Full+Stack+Architect;AI+%26+Machine+Learning+Visionary;React+%7C+Next.js+%7C+TypeScript+Expert;5%2B+Years+of+Experience;15%2B+Applications+Delivered" alt="Typing SVG" />
+</p>
 
-- 🔭 I’m currently working on **[HHA whit ai(Human health analytics with Artificial intelligence)](https://hha-with-ai.vercel.app/)**
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=amhousa&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="amhousa" />
+  <img src="https://img.shields.io/github/followers/amhousa?label=Followers&style=for-the-badge&color=blue" alt="followers"/>
+</p>
 
-- 🌱 I’m currently learning **Web application framework Software / Node.js**
+---
 
-- 👯 I’m looking to collaborate on **Blockchain**
+## 👨‍💻 About Me
 
-- 🤝 I’m looking for help with **Ton Smart Contract**
+Full-stack developer and AI specialist with 5+ years of experience creating scalable digital solutions. Developed and delivered 15+ applications across various industries. Specialized in system architecture, AI development, digital transformation, performance optimization, and UI/UX design.
 
-- 👨‍💻 All of my projects are available at [https://github.com/users/amhousa/projects/](https://github.com/users/amhousa/projects/)
+---
 
-- 💬 Ask me about **Next.js**
+## 🚀 Featured Projects
 
-- 📫 How to reach me **amirhosseinsalmanidev@gmail.com**
+**🛡️ [Sheriff - Advanced Command Center](https://sheriff.amirsalmani.com/)**
+- Real-time monitoring, AI security analytics, predictive maintenance
+- **Tech:** React, Node.js, Express, MongoDB, WebSockets
 
-- ⚡ Fun fact **I need a Coffee**
+**💰 Cryptocurrency Exchange Platform**
+- High-frequency trading, sub-millisecond latency, risk management
+- **Tech:** React, Redux, Node.js, MongoDB, Real-time APIs
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://gulpjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gulp/gulp-plain.svg" alt="gulp" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://pugjs.org" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/pug.svg" alt="pug" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+**🏢 [Alalam Jamel - Dubai Business Hub](https://alalamjamel.com/)**
+- AI-powered consultation, automated legal compliance
+- **Tech:** Next.js, AI Integration, TailwindCSS
 
-<div class="flex w-full flex-col items-center"><img class="output" src="https://github-readme-stats.vercel.app/api?username=amhousa&amp;theme=prussian&amp;show_icons=true&amp;hide_border=true&amp;count_private=true" alt="github stats"><img class="output" src="https://github-readme-streak-stats.herokuapp.com/?user=amhousa&amp;theme=prussian&amp;hide_border=true" alt="github streak"><img class="output" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amhousa&amp;theme=prussian&amp;show_icons=true&amp;hide_border=true&amp;layout=compact" alt="github top languages"></div>
+**🎵 [Nilram Music Gallery](https://nilramgallery.ir/)**
+- 3D visualization, custom audio processing, immersive UX
+- **Tech:** React, Three.js, WebGL, Node.js
+
+---
+
+## 💻 Tech Stack
+
+### Frontend
+![React](https://img.shields.io/badge/React-Expert-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-Master-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-Advanced-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Three.js](https://img.shields.io/badge/Three.js-Specialist-000000?style=for-the-badge&logo=threedotjs&logoColor=white)
+
+### Backend
+![Node.js](https://img.shields.io/badge/Node.js-Expert-43853D?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-Master-404D59?style=for-the-badge&logo=express&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-Advanced-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+
+### AI & Data
+![TensorFlow](https://img.shields.io/badge/TensorFlow-Specialist-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/ML_Engineering-Advanced-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+
+### Database & DevOps
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Expert-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-Advanced-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-Proficient-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
+
+---
+
+## 💼 Services
+
+- 🏗️ **Web Development** (From $1,700)
+- 🤖 **AI & ML Solutions** (From $2,000)
+- 🎨 **UI/UX Design** (From $1,000)
+- 💡 **Technical Consulting** (From $300)
+
+---
+
+## 📞 Contact
+
+<p align="center">
+  <a href="https://amirsalmani.com">
+    <img src="https://img.shields.io/badge/🌐_Portfolio-Visit-FF5722?style=for-the-badge&logo=todoist&logoColor=white"/>
+  </a>
+  <a href="mailto:info@amirsalmani.com">
+    <img src="https://img.shields.io/badge/📧_Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://linkedin.com/in/amirhosseinsalmani">
+    <img src="https://img.shields.io/badge/💼_LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=amhousa&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=amhousa&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+</p>
+
+---
+
+## 🌍 Language Versions
+
+<p align="center">
+  <a href="./README-EN.md">
+    <img src="https://img.shields.io/badge/🇬🇧_English-Detailed_Version-blue?style=for-the-badge&logo=readme&logoColor=white"/>
+  </a>
+  <a href="./README-FA.md">
+    <img src="https://img.shields.io/badge/🇮🇷_فارسی-Persian_Version-green?style=for-the-badge&logo=readme&logoColor=white"/>
+  </a>
+  <a href="./README-RU.md">
+    <img src="https://img.shields.io/badge/🇷🇺_Русский-Russian_Version-red?style=for-the-badge&logo=readme&logoColor=white"/>
+  </a>
+  <a href="./README-AR.md">
+    <img src="https://img.shields.io/badge/🇸🇦_العربية-Arabic_Version-darkgreen?style=for-the-badge&logo=readme&logoColor=white"/>
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
+
+> **"Transforming creative and intellectual ideas into digital realities on the vast web is an art, one line of code at a time is all it takes!"**
