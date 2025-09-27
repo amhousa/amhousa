@@ -24,7 +24,7 @@ I'm **Amirhossein Salmani**, a **full-stack developer** and **AI specialist** fo
 - 🚀 **Performance Optimization** - Creating fast, efficient applications
 - 🎨 **UI/UX Design** - Developing user-friendly interfaces with great user experience
 
-### 💎 Legendary Project Portfolio
+### 💎 Project Portfolio
 
 **🛡️ Sheriff - Advanced Command Center**
 Revolutionary facility control system featuring real-time monitoring, AI-powered security analytics, and predictive maintenance algorithms.
@@ -52,7 +52,7 @@ Revolutionary music frame platform featuring Three.js 3D visualization, custom a
 
 ---
 
-## ⚡ Elite Technology Mastery
+## ⚡ Technology Mastery
 
 ### 🎨 Frontend Excellence
 ![React](https://img.shields.io/badge/React-Expert_95-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
